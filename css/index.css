@@ -1,4 +1,22 @@
+div {
+    display: flex;
+}
+
 img {
     height: 30%;
     width: 30%;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.text {
+    width: 400px;
+    margin-left: 100px;
+}
+
+.container {
+    margin-left: 200px;
 }
